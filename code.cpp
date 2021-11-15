@@ -25,7 +25,7 @@ ListNode *detectCycle(ListNode *head) {
         }
         return slow;
     }
-};
+
 
 ////Google solution(More space efficient but same in time as mine)/////////////
 
